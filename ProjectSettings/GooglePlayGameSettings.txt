@@ -1,5 +1,5 @@
-lastUpgrade=01009
-proj.pluginVersion=0.10.09
+lastUpgrade=01014
+proj.pluginVersion=0.10.14
 proj.AppId=769528786778
 and.BundleId=com.aniketujgare.birdrunner2d
 proj.classDir=Assets
